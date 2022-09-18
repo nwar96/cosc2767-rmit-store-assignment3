@@ -89,7 +89,7 @@
             </div>
             <div class="row rmit-product-section">
               <?php
-                include 'db.php';
+              include 'db.php';
 
                 $link = mysqli_connect(
                   "$DATABASE",
