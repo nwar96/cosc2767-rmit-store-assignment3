@@ -1,5 +1,5 @@
 <?php
 
-$DATABASE = 'production-database.cjiy9rgwufcj.us-east-1.rds.amazonaws.com'
+$DATABASE = 'database-2.cvni92omg0fq.us-east-1.rds.amazonaws.com'
 
 ?>
