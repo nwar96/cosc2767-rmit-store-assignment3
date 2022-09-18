@@ -54,7 +54,7 @@
                                 <li><a href="https://www.campusstore.rmit.edu.au/collections/clothing">Clothing</a></li>
                                 <li><a href="https://www.campusstore.rmit.edu.au/collections/accessories">Accessories</a></li>
                                 <li><a href="https://www.campusstore.rmit.edu.au/collections/stationery">Stationery</a></li>
-                                <li><a href="https://www.campusstore.rmit.edu.au/collections/course">Course & Equipments</a></li>
+                                <li><a href="https://www.campusstore.rmit.edu.au/collections/course">Course</a></li>
                                 <li><a href="https://www.campusstore.rmit.edu.au/collections/special-collection">Special-Collection</a></li>
                                 <li><a href="https://www.campusstore.rmit.edu.au/collections/sale">Sale</a></li>
                             </ul>
