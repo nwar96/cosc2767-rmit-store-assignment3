@@ -89,8 +89,10 @@
             </div>
             <div class="row rmit-product-section">
               <?php
+              include 'db.php';
+
               $link = mysqli_connect(
-                  "database-2.cvni92omg0fq.us-east-1.rds.amazonaws.com",
+                  "$DATABASE",
                   "db_admin",
                   "rmit_password",
                   "rmit_store_db"
