@@ -91,7 +91,7 @@
               <?php
                 include 'db.php';
 
-              $link = mysqli_connect(
+                $link = mysqli_connect(
                   "$DATABASE",
                   "db_admin",
                   "rmit_password",
