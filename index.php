@@ -89,8 +89,10 @@
             </div>
             <div class="row rmit-product-section">
               <?php
-              $link = mysqli_connect(
-                  "",
+                include 'db.php';
+
+                $link = mysqli_connect(
+                  "$DATABASE",
                   "db_admin",
                   "rmit_password",
                   "rmit_store_db"
