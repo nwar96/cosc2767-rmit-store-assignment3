@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>RMIT Store</title>
+        <title>Cloud Operations 2825</title>
 
         <!-- Favicon -->
         <link rel="icon" href="img/favicon.jpg" type="image/png" />
@@ -143,7 +143,7 @@
         <footer class="footer_area row">
             <div class="container custom-container">
                 <div class="copy_right_area">
-                    <h4 class="copy_right">© Copyright 2022 RMIT Vietnam | Made by Group 5 </h4>
+                    <h4 class="copy_right">© Copyright 2022 RMIT Vietnam | Made by Alain </h4>
                 </div>
             </div>
         </footer>
